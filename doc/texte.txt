@@ -1,0 +1,9 @@
+Infos
+
+Orange : feb900
+Orange foncé : ecad00
+Gris claire : eeeeee
+Gris foncé : bbbbbb
+Blanc : ffffff
+Noir :000000
+Police : bahnschrift regular 
